@@ -1,0 +1,11 @@
+,LINET flashes vs LI uncorrected,LINET flashes vs LI corrected
+Total events,998706.0,998706.0
+Matched events,667076.0,760692.0
+DE (%),66.79403147673088,76.1677610828412
+|dt| median (ms),128.0,66.0
+|dt| 90th pct (ms),666.0,613.0
+dr median (km),12.243978605004504,8.111541370537363
+dr 90th pct (km),17.926186359608824,14.877850581635034
+dt signed median (ms),125.0,0.0
+Δlon median (°),0.07419999999999938,0.04519999999999946
+Δlat median (°),0.06639899999999699,-0.004499000000002695
